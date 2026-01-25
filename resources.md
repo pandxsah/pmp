@@ -1,9 +1,9 @@
 # PMP Study Resources
 
 ## Books
-- PMBOK 7  
-- Agile Practice Guide  
-- Rita Mulcahy  
+- [PMBOK 7](books/PMBOK7.pdf)
+- [PMBOK 6](books/PMBOK6.pdf)
+- [Agile Practice Guide](books/Agile_Practice_Guide.pdf)
 
 ## Courses
 - Andrew Ramdayal  
