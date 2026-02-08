@@ -18,3 +18,9 @@ This site contains notes, formulas, and useful resources for PMP exam prep.
 - May: Full mock tests and weak areas  
 
 Goal: Pass PMP in first attempt.
+
+## Quick Links
+- [Formulas](formulas.md)
+- [Resources](resources.md)
+- [Cheat Sheets](cheat-sheets.md)
+
